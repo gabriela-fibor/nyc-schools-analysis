@@ -22,10 +22,3 @@ The data was provided by [DataCamp](https://www.datacamp.com/) as part of an exe
    - average total SAT score,
    - standard deviation.  
    Output: `largest_std_dev` — one-row DataFrame with borough having the highest SAT standard deviation.
-
-## Tools Used
-
-- `Python`
-- `pandas`
-- `matplotlib` (optional for plotting)
-
